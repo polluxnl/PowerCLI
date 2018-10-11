@@ -1,0 +1,5 @@
+"hostname","site","cluster","DSname"
+"esx0001.home.local","site-a","Cluster1","esx0001-local"
+"esx0002.home.local","site-b","Cluster1","esx0002-local"
+"esx0003.home.local","site-a","Cluster2","esx0003-local"
+"esx0004.home.local","site-b","Cluster2","esx0004-local"
